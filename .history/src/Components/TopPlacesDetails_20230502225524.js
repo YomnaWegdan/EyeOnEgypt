@@ -1,0 +1,21 @@
+import React, { Fragment } from 'react'
+import ItemDetails from './ItemDetails'
+import {useParams} from 'react-router'
+import {TopPlaces} from './DATA'
+
+const TopPlacesDetails = () => {
+    
+    const proid = useParams();
+        const itemTopPlacesDetail = TopPlaces.filter(x=>x.id == proid.id);
+        const item2 = itemTopPlacesDetail[0];
+        console.log(item2);
+
+return (
+    <Fragment>
+    <ItemDetails name={item2.name} data={item2.data} img={item2.img} location={item2.location}/>
+    </Fragment>
+)
+}
+
+
+export default TopPlacesDetails

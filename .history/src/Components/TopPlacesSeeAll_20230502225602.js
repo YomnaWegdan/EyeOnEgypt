@@ -1,0 +1,36 @@
+import React, { Fragment } from 'react'
+import CardItem from './CardItem'
+import CatagoresComp from './CatagoriesComp'
+import { TopPlaces} from './DATA'
+import { BsArrowLeftCircleFill } from 'react-icons/bs'
+import { useNavigate } from 'react-router-dom';
+
+const TopPlacesSeeAll = () => {
+  const navigate = useNavigate();
+  const {mostPopular } = ();
+
+
+  return (
+    <Fragment>
+    <div className='back-img'>
+    <div className="container">
+    <div className='mt-2'>
+    <BsArrowLeftCircleFill onClick={() => navigate(-1)}
+    style={{width:'40px' , height:'40px' , color:'rgba(100, 79, 10,0.50)' , cursor:'pointer', marginLeft:'30px' }}/>
+    <span style={{color: 'rgba(100, 79, 10, 0.65)' , fontWeight:'400' , marginInline:'10px'}}>Top Places</span>
+    </div>
+    <div className="row justify-content-center  mt-0" >   
+    {TopPlaces.map((el) => {
+        return (
+        <div className=' d-inline-block  col col-lg-4 col-md-6 mt-3'
+          key={el.id} >
+        <CardItem srcImg={el.img} name={el.name} id={el.id} location={el.location} title='TopPlaces' el={el}/>
+        </div> 
+        )})}    
+    </div></div></div>
+
+    </Fragment>
+  )
+}
+
+export default TopPlacesSeeAll

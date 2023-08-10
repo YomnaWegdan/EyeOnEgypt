@@ -1,0 +1,74 @@
+
+.background-image::before , .back-image::before , .back-img::before , .background-login::before
+, .background-sign::before , .background-forYou::before ,.background-map::before{
+    content: "";
+    opacity: 0.2;
+    position: absolute;
+    top:55px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.background-image::before{
+    background-image: url('../images/photo-1553913861-c0fddf2619ee.webp');
+    height: 110%;
+
+
+   
+}
+.background-forYou::before{
+  background-image: url('../images/photo-1608546043931-6c9678ea9feb.webp');
+  height: 100%;
+
+}
+.back-image::before{
+    background-image: url('../images//photo-1633163940265-e0e82292e290.webp') ;
+    height: 110%;
+
+
+   
+    background-repeat: repeat-y;
+    height:138%;
+}
+.background-map::before{
+  background-image: url('../images/photo-1566288623394-377af472d81b.webp');
+  height: 110%;
+
+
+}
+
+    .back-img::before{
+        background-image: url('../images//photo-1632944398987-494eebe663be.webp')  ;
+        height: 300%;
+      }
+      @media (max-width:992px) {
+        .back-img::before{
+          background-image: url('../images//photo-1632944398987-494eebe663be.webp')  ;
+          height: 413%;
+        }
+        .background-forYou::before{
+          background-image: url('../images/photo-1608546043931-6c9678ea9feb.webp');
+          height: 130%;
+        
+        }
+
+        
+      }
+  
+      .background-login::before{
+        background-image: url( '../images/Rectangle 170.png');
+        background-size: 64% 100%;
+        opacity: 1;
+      }
+      .background-sign::before{
+        background-image: url( '../images/Rectangle 169.png');
+        background-size: 64% 100%;
+        opacity: 1;
+      }
+
+
+

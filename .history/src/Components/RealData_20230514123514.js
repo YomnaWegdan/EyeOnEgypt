@@ -1,0 +1,79 @@
+export const ancientSites = [
+   
+    {
+        id : 1,
+        name : "Bent Pyramid",
+       // img : require('../images/Rectangle 159.png'),
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+        title:'ancientSites',
+        data:'The Bent Pyramid is one of the pyramids built by King Sneferu, the first king of the Dynasty 4. It was called “bent” because of its broken lines due to a change of angle, an engineering issue in its design. Indeed, the pyramid construction began at an angle of 55 degrees but had to be adjusted to 43 degrees due to an overload of blocks resulting in instability. Despite their adjustments, the king’s designers made a new pyramid at a short distance, the Red Pyramid. The first angle of the Bent Pyramid suggests the transition phase between the Step-pyramid design of King Djoser in Saqqara and the later smooth-faced pyramids.The Bent Pyramid has two entrances, one on the north side, with modern wooden stairs, and the other is high on the west side. Each entrance leads to a chamber with a corbelled roof, giving this gradual effect. The northern entrance chamber is below ground level. As for the western entrance chamber, it is built higher up in the body of the Bent Pyramid.'
+    },
+    {
+        id : 2,
+        name : "Hatshepsut Temple",
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+
+        data:'Hatshepsut (c.1473–1458 BC), the queen who became pharaoh, built a magnificent temple at Deir al-Bahari, on the west back of Luxor. It lies directly across the Nile from Karnak Temple, the main sanctuary of the god Amun. Hatshepsut’s temple, Djeser-djeseru “the Holy of Holies” was designed by the chief steward of Amun, Senenmut .The temple consists of three levels each of which has a colonnade at its far end. On the uppermost level, an open courtyard lies just beyond the portico. Mummiform statues of Hatshepsut as Osiris, the god of the dead, lean against its pillars.This is because Djeser-djeseru is Hatshepsut’s mortuary temple, where her cult was practiced after her death, when she attained the blessed state of Osiris. Far from being devoted solely to her, the temple also includes sections for the cults of her revered father Thutmose I, the goddess Hathor, and the funerary god Anubis. An altar, open to the sky and the sun, was dedicated to the cult of the solar Ra-Horakhty. Pride of place was given to Amun. At the far end of the upper courtyard, on the temple’s central axis, a passage cut directly into the living rock culminates in his sanctuary.The temple’s walls are covered with beautiful painted reliefs depicting temple rituals, religious festivals, and even the transportation of obelisks from the quarry to their destination in Karnak Temple. Perhaps most interesting are the reliefs in the portico on the so-called Middle Platform. The decorative programme on the left side depicts Hatshepsut’s expedition to Punt, believed to be located near modern Eritrea. The inhabitants of this land, their dwellings, and surrounding environment are vividly recorded, as are the riches and exotic animals that the Egyptians brought back with them. On the other side of the portico, Hatshepsut relates how she is the rightful king of Egypt. She does this not only by claiming that her father Thutmose I had designated her as his heir, but by stating that her true father was none other than the god Amun himself.'
+
+    },
+    {
+        id : 3,
+        name : "Edfu Temple",
+       // img : require('../images/Rectangle 159.png'),
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+        title:'ancientSites',
+        data:'Edfu Temple is one of the most striking and complete of ancient Egyptian temples and is dedicated to the worship of the god Horus. Situated on the western bank of the Nile, its construction began during the reign of Ptolemy III (246–221 BC) in 237 BC, but was completed in the reign of Ptolemy XII (80–51 BC) in 57 BC, 180 years later.The temple remained buried under layers of settlement debris for millennia, which is why its architectural and decorative elements have survived so well. In 1860 the French archaeologist Auguste Mariette uncovered and restored parts of the temple.The temple is fronted by two massive pylons that bear scenes of Ptolemy XII conquering his enemies and worshiping deities. Two large granite statues of the falcon-god Horus stand before the pylons. Once through the pylons you enter into a large Peristyle court lined with columns decorated with floral capitals.Beyond this court are two Hypostyle Halls, the first illustrates the temple’s foundation with the king engaged in worship, the second holds scenes of Horus’ journey in a sacred bark accompanied by the goddess Hathor. From the second Hypostyle Hall is the Transverse Hall, then the Sanctuary of the temple.'
+    },
+    {
+        id : 4,
+        name : "The Unfinished Obelisk",
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+
+        data:'Colossal statues are one of the hallmarks of ancient Egyptian civilization, and the Great Sphinx of Giza is the most famous. It was carved directly out of the bedrock during the 4th Dynasty (c.2613–2494 BC), which also makes it the oldest. Ancient Egyptian sphinxes represented the king with the body of a lion, in a clear demonstration of his power.The evidence points to the Great Sphinx having been carved during the reign of Khafre (Khefren to the ancient Greeks; c.2558–2532 BC), the builder of the second of the Giza pyramids. The Great Sphinx and the temple in front of it, called the Sphinx Temple, lie directly next to Khafre’s valley temple and the lower portion of the causeway leading up to his mortuary temple and pyramid. Careful archaeological analysis has revealed that the valley temple was finished before work was begun on the Great Sphinx and its temple. Analysis of the Great Sphinx’s facial features has also revealed striking similarities with those of Khafre’s statues.The Great Sphinx has captured the imagination of travelers and explorers for millennia, even in ancient Egyptian times. During the 18th Dynasty (c.1550–1295 BC), it came to be seen as a manifestation of the sun god, and was called Horemakhet “Horus in the Horizon”. King Amenhotep II (c.1427–1400 BC) built a temple next to the Sphinx, which he dedicated to this god. His son, Thutmose IV (c.1400–1390 BC), erected a monumental stela between its front paws, called the Dream Stela, on which he recorded a fascinating event.'
+
+    },
+
+    {
+        id : 5,
+        name : "Great Sphinx of Giza",
+       // img : require('../images/Rectangle 159.png'),
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+        title:'ancientSites',
+        data:'Colossal statues are one of the hallmarks of ancient Egyptian civilization, and the Great Sphinx of Giza is the most famous. It was carved directly out of the bedrock during the 4th Dynasty (c.2613–2494 BC), which also makes it the oldest. Ancient Egyptian sphinxes represented the king with the body of a lion, in a clear demonstration of his power.The evidence points to the Great Sphinx having been carved during the reign of Khafre (Khefren to the ancient Greeks; c.2558–2532 BC), the builder of the second of the Giza pyramids. The Great Sphinx and the temple in front of it, called the Sphinx Temple, lie directly next to Khafre’s valley temple and the lower portion of the causeway leading up to his mortuary temple and pyramid. Careful archaeological analysis has revealed that the valley temple was finished before work was begun on the Great Sphinx and its temple. Analysis of the Great Sphinx’s facial features has also revealed striking similarities with those of Khafre’s statues.The Great Sphinx has captured the imagination of travelers and explorers for millennia, even in ancient Egyptian times. During the 18th Dynasty (c.1550–1295 BC), it came to be seen as a manifestation of the sun god, and was called Horemakhet “Horus in the Horizon”. King Amenhotep II (c.1427–1400 BC) built a temple next to the Sphinx, which he dedicated to this god. His son, Thutmose IV (c.1400–1390 BC), erected a monumental stela between its front paws, called the Dream Stela, on which he recorded a fascinating event.'
+    },
+    {
+        id : 6,
+        name : "Kalabsha Temple",
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+
+        data:'This beautiful and remarkably well-preserved monument is the largest free-standing temple in Lower Nubia. It was built during the reign of Augustus (30 BC–14 AD), the first Roman emperor. Primarily dedicated to the Nubian god Mandulis, the gods Isis and her husband Osiris were worshipped here too. The temple is standard in its plan. A monumental gateway called a pylon leads into an open-air forecourt followed by a columned hall, called a hypostyle hall. Two transversal chambers lie beyond which served as halls for offerings. At the far end of the temple is the sanctuary, where the cult image of the god was kept. A partly rock-cut chapel to the Nubian god Dedwen lies to the south-west, and a small chapel, likely built by Ptolemy IX in the 2nd century BC, is located to the north-east.   Multiple cultures have left their mark on the temple of Kalabsha, from its dedication to a Nubian god to its inscriptions in Meroitic and Greek. The slender columns and their wide spacing hint at influence from Graeco-Roman tradition. There are several crosses carved onto its walls, signaling the beginning of Christianity in the region when the sanctuary was used as a church. From 1962 to 1963, this temple, like many others in Nubia, was relocated from its original site on Kalabsha Island to New Kalabsha Island in order to save it from the rising waters of the Nile in the aftermath of the construction of the Aswan High Dam. Because of their immense historical significance, the Egyptian monuments in Nubia from Abu Simbel to Philae, including the monuments standing today on New Kalabsha, were inscribed on UNESCO’s World Heritage List in 1979.'
+
+    },
+    {
+        id : 7,
+        name : "Luxor Temple",
+       // img : require('../images/Rectangle 159.png'),
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+        title:'ancientSites', 
+        data:'Luxor Temple, Ipet-resyt “Southern Sanctuary” to the ancient Egyptians, was so called because of its location within ancient Thebes (modern Luxor). It is located around three kilometers to the south of Karnak Temple, to which it was once linked with a processional way bordered with sphinxes. The oldest evidence for this temple dates to the Eighteenth Dynasty (c.1550–1295 BC).Ipet-resyt, unlike most other ancient Egyptian temples, is not laid out on an east-west axis, but is oriented towards Karnak. This is because Luxor Temple was the main venue for one the most important of ancient Egyptian religious celebrations, when the cult images of Amun, his wife Mut, and their son, the lunar god Khonsu, were taken from their temples in Karnak, and transported in a grand procession to Luxor Temple so they could visit the god that resides there, Amenemopet. This was the Opet Festival.Luxor Temple was not built by one single ruler. The oldest existing structure, a shrine, dates to the reign of Hatshepsut (c.1473–1458 BC). The core of the temple was built by Amenhotep III (c.1390–1352 BC). One of the inner rooms contains a series of scenes that are known as the Divine Birth. They tell the amazing story of how the king’s true father was none other than the god Amun-Ra himself, disguised as Thutmose IV (c.1400–1390 BC). The core of the temple is preceded by a columned hall fronted by a courtyard with columns around its perimeter. Amenhotep III also built the Great Colonnade, which consists of two rows of seven colossal columns. Its decoration, most notably the scenes depicting the Opet Festival, were completed by Tutankhamun (c.1336–1327 BC) and Horemheb (c.1323–1295 BC)  Ramesses II (c.1279–1213 BC) made many additions to Luxor Temple. In front of the Great Colonnade, he built a peristyle courtyard and a massive pylon, a gate with two towers that formed the entrance into temples. In addition to many colossal statues, the pylon was also fronted by a pair of 25-meter-high obelisks made by this great king, but only one remains in place; the other has been at the Place de la Concorde in Paris since 1836.  In the late third century AD, the Romans built a fort around the temple, and the first room beyond the hypostyle hall of Amenhotep III became its sanctuary. The original wall reliefs were covered with plaster, and painted in the Graeco-Roman artistic style, depicting Emperor Diocletian (284–305 AD) and his three coregents. Although these  had largely disappeared, efforts are under way to restore these reliefs to their former glory.'
+    },
+    {
+        id : 8,
+        name : "Medinet Habu Temple",
+        img : require('../images/Rectangle 121.png'),
+        location:'Giza',
+
+        data:'Colossal statues are one of the hallmarks of ancient Egyptian civilization, and the Great Sphinx of Giza is the most famous. It was carved directly out of the bedrock during the 4th Dynasty (c.2613–2494 BC), which also makes it the oldest. Ancient Egyptian sphinxes represented the king with the body of a lion, in a clear demonstration of his power.The evidence points to the Great Sphinx having been carved during the reign of Khafre (Khefren to the ancient Greeks; c.2558–2532 BC), the builder of the second of the Giza pyramids. The Great Sphinx and the temple in front of it, called the Sphinx Temple, lie directly next to Khafre’s valley temple and the lower portion of the causeway leading up to his mortuary temple and pyramid. Careful archaeological analysis has revealed that the valley temple was finished before work was begun on the Great Sphinx and its temple. Analysis of the Great Sphinx’s facial features has also revealed striking similarities with those of Khafre’s statues.The Great Sphinx has captured the imagination of travelers and explorers for millennia, even in ancient Egyptian times. During the 18th Dynasty (c.1550–1295 BC), it came to be seen as a manifestation of the sun god, and was called Horemakhet “Horus in the Horizon”. King Amenhotep II (c.1427–1400 BC) built a temple next to the Sphinx, which he dedicated to this god. His son, Thutmose IV (c.1400–1390 BC), erected a monumental stela between its front paws, called the Dream Stela, on which he recorded a fascinating event.'
+
+    },
+
+
+]
+    
