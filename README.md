@@ -7,6 +7,7 @@
 #### About Egypt (Information about Egypt History and Cities)
 #### Favorites
 #### Categories (Egyptology , Entertaining , Medical and Religious Tourism)
+#### Place Details (Image , Information , Location)
 #### Map by Search by Place name
 #### Login
 #### Sign Up
