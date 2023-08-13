@@ -1,3 +1,19 @@
+# EyeOnEgypt Tourist Website For Egypt
+![Capturedd](https://github.com/YomnaWegdan/EyeOnEgypt/assets/101523679/e991f34f-fa14-4410-b054-49a7e683f3e8)
+
+## Features
+#### Home (Search - Top Places - Most Popular - For You Places)
+#### Chatbot For Tourists
+#### About Egypt (Information about Egypt History and Cities)
+#### Favorites
+#### Categories (Egyptology , Entertaining , Medical and Religious Tourism)
+#### Map by Search by Place name
+
+## Built With
+#### React
+#### Bootstrap
+#### Css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
