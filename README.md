@@ -8,6 +8,8 @@
 #### Favorites
 #### Categories (Egyptology , Entertaining , Medical and Religious Tourism)
 #### Map by Search by Place name
+#### Login
+#### Sign Up
 
 ## Built With
 #### React
