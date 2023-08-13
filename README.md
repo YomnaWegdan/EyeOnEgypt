@@ -1,9 +1,9 @@
-# EyeOnEgypt Tourist Website For Egypt
-![Capturedd](https://github.com/YomnaWegdan/EyeOnEgypt/assets/101523679/e991f34f-fa14-4410-b054-49a7e683f3e8)
+# EyeOnEgypt Tourist Website For Egypt (It's a Tour Guide For You)
+![screencapture-localhost-3000-2023-08-13-21_22_48ss](https://github.com/YomnaWegdan/EyeOnEgypt/assets/101523679/58669c97-27e1-43a9-b852-0e86f67ce4c7)
 
 ## Features
 #### Home (Search - Top Places - Most Popular - For You Places)
-#### Chatbot For Tourists
+#### Chatbot (Text - Image) For Tourists
 #### About Egypt (Information about Egypt History and Cities)
 #### Favorites
 #### Categories (Egyptology , Entertaining , Medical and Religious Tourism)
