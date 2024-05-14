@@ -1,13 +1,140 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.text-main{
+  color: #644F0A;
+}
+.bg-main{
+  background-color: #644F0A;
+}
+.text-sec{
+  color: #FF4E02 !important;
+}
+.light-color{
+  color:#e3cfac !important;
+}
+.bg-light-color{
+  background-color:#f9f3e4 !important;
+
+}
+.bg-linear{
+  background-image: linear-gradient(white, #f9c459);
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.w-40{
+  width: 40%;
+}
+.vh-80{
+  height: 80vh !important;
+}
+.ltr{
+  direction: ltr !important;
+}
+.navbar li a{
+  color: #e3cfac;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar li .active , .navbar li a:hover{
+  color: #FF4E02 !important;
+}
+.bg-login , .bg-signup{
+  background-image: url('./images/Top place.png');
+  background-size: cover;
+  background-position: center;
+}
+.bg-signup{
+  background-image: url('./images/Place Details.jpg');
+
+}
+
+.submit-btn{
+  background-color: #e49745;
+  color: #644F0A;
+}
+.submit-btn:hover{
+  background-color:whitesmoke;
+  color: #e49745;
+}
+.form-control:focus{
+  border-color: #ddd !important;
+  box-shadow: none !important
+}
+/* home */
+.search-icon{
+  position: absolute;
+  right: 13%;
+  top: 84%;
+}
+
+/* .slick-prev , .slick-next{
+  background-color: #e3cfac !important;
+  border-radius: 50%;
+  width: 50px !important;
+  height: 50px !important;
+
+} */
+.slick-prev:before, .slick-next:before {
+  color: #e3cfac !important;
+  font-size: 36px !important;
+}
+.slick-dots {
+  margin-bottom: 20px !important;
+}
+
+/* details*/
+.content{
+  height: 520px !important;
+}
+
+.card-details{
+  background-image: url('./images/Top place.png');
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #e3cfac; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+.fa-arrow-circle-left:before, .fa-circle-arrow-left:before {
+  cursor: pointer;
+}
+
+
+/* Chat */
+.chat{
+  position: fixed;
+  bottom: 10%;
+  right: 10%;
+  width: 30%;
+  z-index: 99;
+  min-width: 30%;
+}
+.chat-body{
+  height: 400px;
+  overflow: auto !important;
+  position: relative;
+}
+input:focus-visible{
+  outline: none !important;
+}
+.chat-btn{
+  position: fixed;
+  right: 4%;
+  bottom: 1%;
+  width: 80px;
+  height: 80px;
+
+  
 }
